@@ -1,4 +1,4 @@
-= Prisma Cloud Docs
+# Prisma Cloud Docs
 
 Welcome to the docs project for Prisma Cloud.
 Docs are a core part of the product and we build them just like we build the software in it - using modern collaboration platforms like GitHub and publishing them with a CI/CD pipeline.
